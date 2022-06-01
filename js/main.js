@@ -66,7 +66,7 @@ const sertificatSwiper = new Swiper('.education__swiper', {
   // If we need pagination
   pagination: {
     el: '.swiper-pagination',
-    dynamicBullets: true,
+    // dynamicBullets: true,
   },
 
   // Navigation arrows
